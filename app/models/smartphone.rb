@@ -1,0 +1,3 @@
+class Smartphone < ApplicationRecord
+
+end
